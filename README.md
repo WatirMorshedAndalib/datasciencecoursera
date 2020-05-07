@@ -1,2 +1,2 @@
 # datasciencecoursera
-For courser
+For coursera
